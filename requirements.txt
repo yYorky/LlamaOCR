@@ -1,0 +1,7 @@
+groq
+python-dotenv
+numpy
+streamlit
+langchain-groq
+langchain_community
+pillow
