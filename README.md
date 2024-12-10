@@ -1,4 +1,4 @@
-![](https://build.nvidia.com/_next/image?url=https%3A%2F%2Fassets.ngc.nvidia.com%2Fproducts%2Fapi-catalog%2Fimages%2Fllama3-8b.jpg&w=3840&q=75)
+![](https://developer-blogs.nvidia.com/wp-content/uploads/2024/10/image1.jpg)
 
 # OCR to Tabular Data with Llama3.2 Vision Model
 
