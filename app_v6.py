@@ -16,7 +16,7 @@ def encode_image_pil(image: Image.Image) -> str:
     image.save(buffered, format="JPEG", quality=85)
     return base64.b64encode(buffered.getvalue()).decode("utf-8")
 
-def split_image_into_horizontal_stripes(image: Image.Image, stripe_count: int = 3, overlap: float = 0.2):
+def split_image_into_horizontal_stripes(image: Image.Image, stripe_count: int = 5, overlap: float = 0.1):
     width, height = image.size
     stripe_height = height // stripe_count
     overlap_height = int(stripe_height * overlap)
