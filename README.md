@@ -9,7 +9,7 @@ As a former accountant, I deeply understand the challenges of manually processin
 
 ## Features
 
-![](https://raw.githubusercontent.com/yYorky/LlamaOCR/refs/heads/main/static/LlamaOCR%20screenshot.JPG)
+![](https://raw.githubusercontent.com/yYorky/LlamaOCR/refs/heads/main/static/app_v6-GoogleChrome2024-12-1011-23-35-ezgif.com-crop.gif)
 
 - **Highly Accurate OCR**: Optimized for extracting text from invoices, including handwritten notes.
 - **Table Formatting**: Automatically formats extracted data into structured tables.
@@ -90,4 +90,3 @@ To test the application:
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
-
